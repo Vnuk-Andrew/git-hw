@@ -3,3 +3,4 @@
 3-d commit - master
 1-st commit - develop
 2-nd commit - develop
+1-st commit to rebase - master

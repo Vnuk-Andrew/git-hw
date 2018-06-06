@@ -7,4 +7,3 @@
 1-st commit for rebase - develop
 2-d commit for rebase - develop
 commit for cherry-pick
-for revert

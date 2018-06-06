@@ -5,3 +5,4 @@
 2-nd commit - develop
 1-st commit to rebase - master
 1-st commit for rebase - develop
+2-d commit for rebase - develop

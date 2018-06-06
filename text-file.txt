@@ -4,3 +4,4 @@
 1-st commit - develop
 2-nd commit - develop
 1-st commit to rebase - master
+1-st commit for rebase - develop
